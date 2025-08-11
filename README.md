@@ -36,8 +36,3 @@ Clone this repository
 
 Open the project folder
 Launch index.html in your browser
-
----
-
-📜 License
-This project is licensed under the MIT License — feel free to use and modify.
