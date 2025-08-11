@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.user {
+    background-color: #e60023;
+    font-size: 1.3rem;
+}
+
+.form-control {
+    padding: 0.75rem;
+    background-color: #f1f1f1;
+}
+
+.main{
+    height: 100vh;
+}
+
+.sidebar {
+    width: 72px;
+    border-right: 0.8px solid #e5e5e0;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.searchbar {
+    background-color: white;
+}
+
+img {
+    border-radius: 2rem;
+    height: 400px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.9);
+    filter: brightness(60%);
+}
+
+.footer {
+    height: 200px;
+}
