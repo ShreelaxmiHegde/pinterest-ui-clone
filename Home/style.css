@@ -6,7 +6,6 @@ body {
 }
 
 .sidebar {
-    /* height: 100vh; */
     width: 72px;
     border-right: 0.8px solid #e5e5e0;
 }
@@ -19,6 +18,7 @@ body {
 .form-control {
     background-color: #f1f1f1;
     flex: 1;
+    padding: 0.75rem;
 }
 
 .user-profile {
@@ -33,7 +33,6 @@ a {
 }
 
 .main{
-    display: flex;
     height: 100vh;
 }
 
@@ -60,9 +59,4 @@ a {
     background-color: #e60023;
     font-size: 1.3rem;
 
-}
-
-.form-control {
-    padding: 0.75rem;
-    background-color: #f1f1f1;
 }
