@@ -9,6 +9,12 @@ Designed to showcase a clean, adaptive, and visually appealing gallery experienc
 - Modern UI: Clean, minimal, and professional styling.
 - Scalable Image Grid: Adjusts column count based on screen size.
 
+## Preview
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e77101d3-5f34-4a7f-a92d-db5ff450a748" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ac46779c-6bfa-488a-b880-8cf6f3d1056b" />
+
+
 ---
 
 ## Tech Stack
